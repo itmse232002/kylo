@@ -113,7 +113,7 @@ const demoProducts = [
   },
   {
     id: "10",
-    title: "Smart watch",
+    title: "Smart watchHH",
     price: 64,
     rating: 3,
     description: "This is smart watch description",
